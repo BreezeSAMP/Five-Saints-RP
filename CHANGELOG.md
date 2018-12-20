@@ -1,5 +1,5 @@
 ## Gamemode Five Saints RP - Lista de cambios.
-## [1.0.0] - 20/12/2108
+## 20/12/2108
 - Iniciado sistema de habilidades para los trabajos /habilidad
 - Creado comando para revisar el aspecto físico de los personajes /mirar
 - Fixeado y mejorado comando para reportar bugs IG /bug
